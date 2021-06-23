@@ -1,1 +1,1 @@
-web: gunicorn app:regressor
+web: gunicorn app:app
